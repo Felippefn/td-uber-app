@@ -1,1 +1,4 @@
 env
+server/taxi/__pycache__
+server/trips/__pycache__
+server/trips/tests
